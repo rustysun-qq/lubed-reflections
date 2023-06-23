@@ -3,10 +3,11 @@
     "type": "project",
     "license": "proprietary",
     "prefer-stable": true,
+    "version": "0.2",
     "require": {
         "php": ">=8.0",
         "ext-json": "*",
-        "lubed/utils": "dev-main"
+        "lubed/utils": "0.2"
     },
     "config": {
     },
